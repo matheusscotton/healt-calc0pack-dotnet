@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\Health_Calc\\health-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-pack-dotnet\\health-calc-pack-dotnet.csproj": {}
+    "C:\\Projetos\\healt-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-pack-dotnet\\health-calc-pack-dotnet.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\Health_Calc\\health-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-pack-dotnet\\health-calc-pack-dotnet.csproj": {
-      "version": "2.0.0",
+    "C:\\Projetos\\healt-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-pack-dotnet\\health-calc-pack-dotnet.csproj": {
+      "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\Health_Calc\\health-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-pack-dotnet\\health-calc-pack-dotnet.csproj",
-        "projectName": "health_calc_pack_dotnet_by_fabioazola",
-        "projectPath": "C:\\projetos\\Health_Calc\\health-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-pack-dotnet\\health-calc-pack-dotnet.csproj",
-        "packagesPath": "C:\\Users\\fabioazola\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\Health_Calc\\health-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-pack-dotnet\\obj\\",
+        "projectUniqueName": "C:\\Projetos\\healt-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-pack-dotnet\\health-calc-pack-dotnet.csproj",
+        "projectName": "health_calc_pack_dotnet_by_matheusscotton",
+        "projectPath": "C:\\Projetos\\healt-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-pack-dotnet\\health-calc-pack-dotnet.csproj",
+        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\healt-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-pack-dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fabioazola\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.111\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
