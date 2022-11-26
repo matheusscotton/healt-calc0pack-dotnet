@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HFtmCLdXWBE/TnUUDxVsZik9/v4WxV5npxCZ3mL4Ohjkurdig9XokwYkjcGFiu2GISPGV8LPgATINRVn1iBBLA==",
+  "dgSpecHash": "8ed1kHDneS6timtmnF5ePpehK2ws4pX4yt/tKU8oDe4zgZLHYB5RueuFRqC/67uQ2MCWAEqeqbUstAPC6ii+Gw==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\healt-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-pack-dotnet\\health-calc-pack-dotnet.csproj",
+  "projectFilePath": "C:\\Projetos\\new_health\\health-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-pack-dotnet\\health-calc-pack-dotnet.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "health-calc-pack_fabioazola/1.0.1": {
+      "health_calc_pack_dotnet_by_matheusscotton/1.0.0": {
         "type": "package",
         "compile": {
           "lib/net5.0/health-calc-pack-dotnet.dll": {}
@@ -14,22 +14,22 @@
     }
   },
   "libraries": {
-    "health-calc-pack_fabioazola/1.0.1": {
-      "sha512": "wpPrs5HEy36okytfHr5m50lM2Ru3JgCfTrvfiyESn6r5LK5OgtoBOahd16IJWFI2Vpg3jP4Lk4FAAI3XVc5QsQ==",
+    "health_calc_pack_dotnet_by_matheusscotton/1.0.0": {
+      "sha512": "33FoliqrwDy0BtgH6DrIcxqbn2jTmkSPP3he7V6v98B/2ecTteV55C/3mGnemnJs7hVHuojBwJwRtB/u26Oe0w==",
       "type": "package",
-      "path": "health-calc-pack_fabioazola/1.0.1",
+      "path": "health_calc_pack_dotnet_by_matheusscotton/1.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "health-calc-pack_fabioazola.1.0.1.nupkg.sha512",
-        "health-calc-pack_fabioazola.nuspec",
+        "health_calc_pack_dotnet_by_matheusscotton.1.0.0.nupkg.sha512",
+        "health_calc_pack_dotnet_by_matheusscotton.nuspec",
         "lib/net5.0/health-calc-pack-dotnet.dll"
       ]
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "health-calc-pack_fabioazola >= 1.0.1"
+      "health_calc_pack_dotnet_by_matheusscotton >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -38,11 +38,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\healt-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-console-dotnet\\health-calc-console-dotnet.csproj",
+      "projectUniqueName": "C:\\Projetos\\new_health\\health-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-console-dotnet\\health-calc-console-dotnet.csproj",
       "projectName": "health-calc-console-dotnet",
-      "projectPath": "C:\\Projetos\\healt-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-console-dotnet\\health-calc-console-dotnet.csproj",
+      "projectPath": "C:\\Projetos\\new_health\\health-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-console-dotnet\\health-calc-console-dotnet.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\healt-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-console-dotnet\\obj\\",
+      "outputPath": "C:\\Projetos\\new_health\\health-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-console-dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,9 +71,9 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
-          "health-calc-pack_fabioazola": {
+          "health_calc_pack_dotnet_by_matheusscotton": {
             "target": "Package",
-            "version": "[1.0.1, )"
+            "version": "[1.0.0, )"
           }
         },
         "imports": [

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = health_calc_test_xunit
-build_property.ProjectDir = C:\Projetos\healt-calc-pack-dotnet\source\health-calc-dotnet\health-calc-test-xunit\
+build_property.ProjectDir = C:\Projetos\new_health\health-calc-pack-dotnet\source\health-calc-dotnet\health-calc-test-xunit\

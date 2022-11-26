@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lCyll4ELFqV7E9d/4VzQeIARbnBL2rYkdfPG2JZcHcPhKTnFAtJ7R4a2NdnpymhldndR++Qsq5yNacuq0x3rEw==",
+  "dgSpecHash": "xO6OVVPOcA0o76Mtxq4j1MbPWgzFrIO/Ed2xCuzWXDFaYtYwGQkNDoWFxb4dqLrTaFr3qIC+U+t9lwLJEaCrOw==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\healt-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-test-xunit\\health-calc-test-xunit.csproj",
+  "projectFilePath": "C:\\Projetos\\new_health\\health-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-test-xunit\\health-calc-test-xunit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

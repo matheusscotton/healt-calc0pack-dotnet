@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="health-calc-pack_fabioazola" Version="1.0.1" />
+    <PackageReference Include="health_calc_pack_dotnet_by_matheusscotton" Version="1.0.0" />
   </ItemGroup>
 
 </Project>

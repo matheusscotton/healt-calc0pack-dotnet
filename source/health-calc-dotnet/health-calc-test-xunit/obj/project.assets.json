@@ -6070,11 +6070,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\healt-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-test-xunit\\health-calc-test-xunit.csproj",
+      "projectUniqueName": "C:\\Projetos\\new_health\\health-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-test-xunit\\health-calc-test-xunit.csproj",
       "projectName": "health-calc-test-xunit",
-      "projectPath": "C:\\Projetos\\healt-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-test-xunit\\health-calc-test-xunit.csproj",
+      "projectPath": "C:\\Projetos\\new_health\\health-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-test-xunit\\health-calc-test-xunit.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\healt-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-test-xunit\\obj\\",
+      "outputPath": "C:\\Projetos\\new_health\\health-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-test-xunit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6091,8 +6091,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Projetos\\healt-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-pack-dotnet\\health-calc-pack-dotnet.csproj": {
-              "projectPath": "C:\\Projetos\\healt-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-pack-dotnet\\health-calc-pack-dotnet.csproj"
+            "C:\\Projetos\\new_health\\health-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-pack-dotnet\\health-calc-pack-dotnet.csproj": {
+              "projectPath": "C:\\Projetos\\new_health\\health-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-pack-dotnet\\health-calc-pack-dotnet.csproj"
             }
           }
         }

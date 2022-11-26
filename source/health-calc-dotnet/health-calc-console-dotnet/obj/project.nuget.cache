@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dalvERYJe2tGS8ouboodRzHmu+Fw9djZpOz4DMnu+ZpupkUBaHbvpsdagbyOFfQYUFSv8+8M4GaBSrSHP09TRg==",
+  "dgSpecHash": "bNkM3D6xM7fBZSVxXpcKIzJRGG4PyrHzjLGcb/ikBruzKlmG7HBpMh6GgF0V4gwlS+J7oXcZ6JJ7O18OOPZcRQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\healt-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-console-dotnet\\health-calc-console-dotnet.csproj",
+  "projectFilePath": "C:\\Projetos\\new_health\\health-calc-pack-dotnet\\source\\health-calc-dotnet\\health-calc-console-dotnet\\health-calc-console-dotnet.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mathe\\.nuget\\packages\\health-calc-pack_fabioazola\\1.0.1\\health-calc-pack_fabioazola.1.0.1.nupkg.sha512"
+    "C:\\Users\\mathe\\.nuget\\packages\\health_calc_pack_dotnet_by_matheusscotton\\1.0.0\\health_calc_pack_dotnet_by_matheusscotton.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }
